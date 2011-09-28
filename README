@@ -1,0 +1,23 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3755
+
+OBSOLETE
+------------------------------------------------------
+USE  https://github.com/wlangstroth/vim-racket --
+Use racket.vim from this package (and probably the rest of the package)
+
+It works with scribble.vim (vimscript #3756)
+------------------------------------------------------
+
+
+
+This is a cheap and cheerful syntax for racket's "scheme" language.
+
+It's just to get me off the ground, and it borrows heavily from (using
+:source, to be frank) scheme.vim
+
+It's very much a works-for-me script.
+As it grows, I'll share.
+
+This syntax was written to smooth over some bumps for scribble.vim
+(vimscript #3756)
+
